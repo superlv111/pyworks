@@ -23,3 +23,5 @@ a = A()
 
 a.print = 1
 print(dir(a))
+
+b = [0,1]

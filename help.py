@@ -27,3 +27,5 @@ print(dir(a))
 b = [0,1]
 
 print("anything")
+
+print("nothing")

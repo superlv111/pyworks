@@ -25,3 +25,5 @@ a.print = 1
 print(dir(a))
 
 b = [0,1]
+
+print("anything")

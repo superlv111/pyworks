@@ -29,3 +29,5 @@ b = [0,1]
 print("anything")
 
 print("nothing")
+
+message = "change something"

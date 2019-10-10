@@ -13,7 +13,6 @@ from game_stats import GameStats
 from button import Button
 from scoreboard import ScoreBoard
 
-
 def run_game():
     # 初始化游戏并创建屏幕
 
